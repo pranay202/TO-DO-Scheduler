@@ -32,8 +32,8 @@ I have kept the styling at a bare miniumum for you to go wild and make it your o
 ### I might have made  **many** errors, if you find any please report an issue or something <br />
 
 ## You can JOIN me here :
-### LinkedIn : https://www.linkedin.com/in/pranay-kharabe-b01456207/
-### Instagram : https://www.instagram.com/_pranay_2_/
+### [LinkedIn]https://www.linkedin.com/in/pranay-kharabe-b01456207/
+### [Instagram]https://www.instagram.com/_pranay_2_/
 
 
 ### MIT Licence
