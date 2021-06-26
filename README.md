@@ -2,7 +2,7 @@
 A TO-DO App in where you can schedule anything and it will remind you !
 
 
-Memory Game, also known as the Concentration card game or Matching Game, is a simple card game where you need to match pairs by turn over 2 cards at a time. There are so many versions of it it is hard to in down it's exact origin. There are claims that the famuos writer of Huckleberry Finn, Mark Twain invented his own version. I googled it and whatever it is, it looks more like a way of trying to figure out how much tax you owe rather than match cards.
+A TO-DO_Scheduler, built with HTML, CSS and JS is a simple task scheuduler where you need to add your tasks and schedule them. If you are working as a IT professional then you don't need to worry about reminding your tasks. Just add them here and schedule them and sit back relaxed. 
 
 In this repo, I will be putting extra focus on setting Attributes in JavaScript. If you want to learn how to use setAttritube and getAttribute effectively, please have a look at my code.
 
@@ -25,6 +25,16 @@ I have kept the styling at a bare miniumum for you to go wild and make it your o
 - Make sure that the scheduled time is not passed.
 - Make sure that your browser is not closed.
 - It is good for reminding your tasks if you forget about anything while working on your PC.
+
+## Info:
+### I might have hard coded some stuff in places sorry :(
+### If you have any more ideas you can fork it out
+### I might have made  **many** errors, if you find any please report an issue or something <br />
+
+## You can JOIN me here :
+### LinkedIn : https://www.linkedin.com/in/pranay-kharabe-b01456207/
+### Instagram : https://www.instagram.com/_pranay_2_/
+
 
 ### MIT Licence
 
