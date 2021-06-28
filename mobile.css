@@ -1,0 +1,9 @@
+@media only screen and (max-width:460px) {
+
+  h1{
+      font-size:  5rem;
+  }
+  form{
+      margin-top:20px
+  }
+}

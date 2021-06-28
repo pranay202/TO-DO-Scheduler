@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+< lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>ToDo App</title>
+        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="mobile.css">
+        
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <h1>todos</h1>
+        <form id="form">
+            <input
+                type="text"
+                id="input"
+                class="input"
+                placeholder="Enter your todo"
+                autocomplete="off"
+                />
+                <ul class="todos" id="todos"></ul>
+                <input type="datetime-local" class="todos" id="alarmTime"/>
+                <button type="button" onclick="setAlarm(this);" id="alarmButton" class="btn btn-success"><span class="glyphicon glyphicon-time"></span> Set Alarm </button>
+            
+            <br />
+            <div id="selectButton" style="display:none;">
+            
+                    <button onclick="snoozeAlarm();" class="btn btn-warning"><span class="glyphicon glyphicon-pause"></span> Snooze 5 minutes</button>
+                    <button onclick="stopAlarm();" class="btn btn-danger"><span class="glyphicon glyphicon-stop"></span> Stop Alarm</button>
+           
+            
+        </form>
+        <br>
+        <p>Left click to toggle complete. <br />Right click to delete the todo.
+        </p>
+
+    </body>
+</html>
